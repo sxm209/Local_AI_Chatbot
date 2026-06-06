@@ -4,6 +4,8 @@ Local AI Chatbot is a Windows-first desktop application for chatting with your o
 
 The app is built for privacy-first document assistance. Files, extracted text, embeddings, chats, settings, and diagnostics stay on the user's machine by default. Cloud AI providers and web search are optional and explicit.
 
+![Screenshot](Demo_App.png)
+
 ## Features
 
 - Local document chat with cited answers.
