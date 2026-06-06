@@ -341,4 +341,4 @@ See [docs/PRODUCTION.md](docs/PRODUCTION.md) for packaging, installer, and relea
 
 ## License
 
-No license file is currently included. Add a `LICENSE` file before publishing publicly if you want others to use, copy, or modify the project under defined terms.
+MIT license
