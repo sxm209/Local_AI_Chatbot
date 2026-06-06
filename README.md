@@ -189,7 +189,7 @@ The app also exposes recommended local models in Settings and can pull additiona
 Clone the repository:
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/local-ai-chatbot.git
+git clone https://github.com/sxm209/local-ai-chatbot.git
 cd local-ai-chatbot
 ```
 
